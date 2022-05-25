@@ -8,4 +8,7 @@
 ## 회원가입 화면
 ![회원가입](https://user-images.githubusercontent.com/101045853/170294127-a7474ebe-ad46-4252-aca2-baed8e7f3b8e.JPG)
 
+## MongoDB 연결 화면
+![DB](https://user-images.githubusercontent.com/101045853/170294306-e8c23c78-d6c5-4998-95b6-bafe725fc84c.JPG)
+
 ###
