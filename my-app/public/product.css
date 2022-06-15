@@ -58,4 +58,202 @@
       flex: 1;
     }
   }
-  
+  .ceo-access {
+  padding-bottom: 0;
+}
+
+.ceo-inner,
+.access-inner {
+  width: 1300px;
+  margin: auto;
+}
+
+.ceo-content {
+  overflow: hidden;
+  border-bottom: 1px solid #eee;
+  padding: 50px 0;
+}
+
+.ceo-content>div {
+  float: left;
+  width: 50%;
+}
+
+.ceo-left {
+  padding-right: 50px;
+}
+
+.ceo-left img {
+  width: 30px;
+  filter: invert(57%) sepia(52%) saturate(608%) hue-rotate(93deg) brightness(87%) contrast(89%);
+}
+
+.ceo-left h3 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.ceo-right {
+  text-align: center;
+}
+
+.ceo-right>div {
+  float: left;
+  padding: 20px;
+}
+
+.ceo-msg {
+  width: 60%;
+}
+
+.ceo-msg h3 {
+  font-size: 28px;
+  color: #009b72;
+}
+
+.ceo-msg h3 big {
+  display: block;
+}
+
+.ceo-photo {
+  width: 40%;
+}
+
+.ceo-photo img {
+  border-radius: 15px;
+  width: 100%;
+}
+
+.access-content {
+  padding: 50px 0;
+  padding-bottom: 0;
+  overflow: hidden;
+}
+
+.access-content>div {
+  float: left;
+  width: 50%;
+}
+
+.access-left {
+  padding-right: 50px;
+  padding-top: 50px;
+}
+
+.access-left h2 {
+  font-size: 34px;
+}
+
+.access-right {
+  text-align: center;
+}
+
+.access-right img {
+  display: block;
+  float: right;
+}
+
+.btn-download {
+  margin-top: 30px;
+}
+
+/*CPU*/
+.ceo-access {
+  padding-bottom: 0;
+}
+
+.ceo-inner,
+.access-inner {
+  width: 1300px;
+  margin: auto;
+}
+
+.ceo-content {
+  overflow: hidden;
+  border-bottom: 1px solid #eee;
+  padding: 50px 0;
+}
+
+.ceo-content>div {
+  float: left;
+  width: 50%;
+}
+
+.ceo-left {
+  padding-right: 50px;
+}
+
+.ceo-left img {
+  width: 30px;
+  filter: invert(57%) sepia(52%) saturate(608%) hue-rotate(93deg) brightness(87%) contrast(89%);
+}
+
+.ceo-left h3 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.ceo-right {
+  text-align: center;
+}
+
+.ceo-right>div {
+  float: left;
+  padding: 20px;
+}
+
+.ceo-msg {
+  width: 60%;
+}
+
+.ceo-msg h3 {
+  font-size: 28px;
+  color: #009b72;
+}
+
+.ceo-msg h3 big {
+  display: block;
+}
+
+.ceo-photo {
+  width: 40%;
+}
+
+.ceo-photo img {
+  border-radius: 15px;
+  width: 100%;
+}
+
+.access-content {
+  padding: 50px 0;
+  padding-bottom: 0;
+  overflow: hidden;
+}
+
+.access-content>div {
+  float: left;
+  width: 50%;
+}
+
+.access-left {
+  padding-right: 50px;
+  padding-top: 50px;
+}
+
+.access-left h2 {
+  font-size: 34px;
+}
+
+.access-right {
+  text-align: center;
+}
+
+.access-right img {
+  display: block;
+  float: right;
+}
+
+.btn-download {
+  margin-top: 30px;
+}
+
