@@ -68,7 +68,6 @@ HTML,CSS,Javascript,React,Nginx
 ## 참고 사이트
 [danawa](https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_gnb_esti)
 
-## 실행 사이트
-https://minsikcom.netlify.app
+
 
 
